@@ -50,15 +50,28 @@
                 }
             };
 
+            // modal.style.display = "block";
+            // modalImg.src = img.src;
+            // captionText.innerHTML = `
+            //     <h2>${projectDescriptions[img.src.split('/').pop()].title}</h2>
+            //     <p>${projectDescriptions[img.src.split('/').pop()].description}</p>
+            //     <h3>Skills Used:</h3>
+            //     <ul>
+            //         ${projectDescriptions[img.src.split('/').pop()].skills.map(skill => `<li>${skill}</li>`).join('')}
+            //     </ul>
+            // `;
             modal.style.display = "block";
             modalImg.src = img.src;
             captionText.innerHTML = `
-                <h2>${projectDescriptions[img.src.split('/').pop()].title}</h2>
-                <p>${projectDescriptions[img.src.split('/').pop()].description}</p>
-                <h3>Skills Used:</h3>
-                <ul>
-                    ${projectDescriptions[img.src.split('/').pop()].skills.map(skill => `<li>${skill}</li>`).join('')}
-                </ul>
+                <img src="${img.src}" alt="${img.alt}" style="max-width: 50%; height: auto;">
+                <div style="flex-grow: 1;">
+                    <h2>${projectDescriptions[img.src.split('/').pop()].title}</h2>
+                    <p>${projectDescriptions[img.src.split('/').pop()].description}</p>
+                    <h3>Skills Used:</h3>
+                    <ul>
+                        ${projectDescriptions[img.src.split('/').pop()].skills.map(skill => `<li>&#8226; ${skill}</li>`).join('')}
+                     </ul>
+                </div>
             `;
         }
 
@@ -101,7 +114,7 @@
 
 
     <section id="projects">
-    <h2>Projects</h2>
+    <h2>PROJECTS</h2>
     <div class="projects-container">
         <h3 class="sub-heading">Completed</h3>
         <!-- Inside the Projects section -->

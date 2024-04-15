@@ -49,10 +49,16 @@ footer {
     text-align: center;
 }
 
+/* .sub-heading {
+/*    font-family: 'Cursive', Arial, sans-serif; /* Update 'Cursive' to the actual font you have access to */
+/*    font-size: 1.5em;
+/*}
+*/
 .sub-heading {
-    font-family: 'Cursive', Arial, sans-serif; /* Update 'Cursive' to the actual font you have access to */
+    font-family: 'Pacifico', cursive, Arial, sans-serif; /* Pacifico as the primary cursive font */
     font-size: 1.5em;
 }
+
 
 .grid {
     display: grid;

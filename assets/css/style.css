@@ -287,7 +287,8 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8); 
+  /* background: rgba(255, 255, 255, 0.8);  */
+  background: rgba(255, 255, 255, 0.2); 
   /* background: rgba(255, 255, 255, 0); edited */
   position: absolute;
   bottom: 0;
@@ -307,7 +308,8 @@ h6 {
 
 #hero p {
   /* color: #45505b; */
-  color: #ffffff; /* edited */
+  /* color: #ffffff; edited */
+  color: #0563bb;
   margin: 15px 0 0 0;
   font-size: 26px;
   /* font-family: "Poppins", sans-serif; original */

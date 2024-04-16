@@ -389,7 +389,8 @@ section {
 
 .section-title h2 {
   font-size: 32px;
-  font-weight: bold;
+  /* font-weight: bold; */
+  font-weight: 100; /*edited*/ 
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -412,7 +413,8 @@ section {
   content: "";
   position: absolute;
   display: block;
-  width: 40px;
+  /* width: 40px; */ 
+  width: 0px; /*edited*/
   height: 3px;
   background: #0563bb;
   bottom: 0;

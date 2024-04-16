@@ -255,8 +255,9 @@ h6 {
 }
 
 .mobile-nav-toggle i {
+  color: #ffe600;
   /* color: #45505b; */
-  color: #ffffff; /*edited*/
+  /* color: #ffffff; edited */
   /* color: #b70308; edited */
 }
 

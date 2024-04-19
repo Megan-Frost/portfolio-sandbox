@@ -638,14 +638,44 @@ section {
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
+/*---------------------------------------------------------------------------------------------------------------------------------- grid changes*/
+/* .portfolio .portfolio-wrap {
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.8);
+} */
 
+
+
+
+
+
+
+
+/*Chat help*/
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
   z-index: 1;
   background: rgba(255, 255, 255, 0.8);
+  height: 300px; /*fixed height for portfolio item*/
 }
+/* Making the image cover the entire .portfolio-wrap div */
+.portfolio .portfolio-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This ensures the image covers the div */
+}
+
+
+
+
+
+
+
 
 .portfolio .portfolio-wrap::before {
   content: "";

@@ -761,6 +761,14 @@ section {
   display: inline-block;
   transition: 0.3s;
 }
+.portfolio .portfolio-wrap .portfolio-links i { /*added this in and added the i*/
+  color: #45505b;
+  <!--margin: 0 2px;-->
+  margin: 0 20px;
+  font-size: 28px;
+  display: inline-block;
+  transition: 0.3s;
+}
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   color: #148af9;

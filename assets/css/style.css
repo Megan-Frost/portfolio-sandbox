@@ -740,10 +740,20 @@ section {
   font-weight: 600;
 }
 
-.portfolio .portfolio-wrap .portfolio-info h5 {
+.portfolio .portfolio-wrap .portfolio-info h5 { /*added h5 style for the enlarge arrows*/
   font-size: 48px;
   color: #45505b;
   font-weight: 600;
+}
+.portfolio .portfolio-wrap .portfolio-info h6 { /*added h5 style for the enlarge arrows*/
+  font-size: 40px;
+  color: #45505b;
+  font-weight: 400;
+}
+.portfolio .portfolio-wrap .portfolio-info h3 { /*added h5 style for the enlarge arrows*/
+  font-size: 30px;
+  color: #45505b;
+  font-weight: 200;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {

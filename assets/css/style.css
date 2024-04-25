@@ -626,6 +626,8 @@ section {
 .league-script-regular {
   font-family: "League Script", cursive;
   font-weight: 400;
+  font-weight: 600;
+  font-weight: 700;
   font-style: normal;
 }
 .birthstone-regular {
@@ -655,31 +657,31 @@ section {
     font-family: "WindSong", cursive;
 }
 .custom-heading2 {
-  font-size: 42px;
+  font-size: 52px;
   font-weight: 500;
   font-style: normal; 
   font-family: "WindSong", cursive;
 }
 .custom-heading3 {
   font-size: 42px;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal; 
   font-family: "League Script", cursive;
 }
 .custom-heading4 {
-  font-size: 42px;
+  font-size: 52px;
   font-weight: 400;
   font-style: normal; 
   font-family: "Birthstone", cursive;
 }
 .custom-heading5 {
-  font-size: 42px;
+  font-size: 52px;
   font-weight: 400;
   font-style: normal; 
   font-family: "Waterfall", cursive;
 }
 .custom-heading6 {
-  font-size: 42px;
+  font-size: 52px;
   font-weight: 400;
   font-style: normal; 
   font-family: "Alex Brush", cursive;

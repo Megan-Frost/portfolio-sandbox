@@ -33,6 +33,14 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.rubik-glitch-regular {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -610,19 +618,71 @@ section {
   font-weight: 400;
   font-style: normal;
 }
-
 .windsong-medium {
   font-family: "WindSong", cursive;
   font-weight: 500;
   font-style: normal;
 }
+.league-script-regular {
+  font-family: "League Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.birthstone-regular {
+  font-family: "Birthstone", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.waterfall-regular {
+  font-family: "Waterfall", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.alex-brush-regular {
+  font-family: "Alex Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
-.custom-heading {
-    font-size: 24px;
+
+
+
+.custom-heading1 {
+    font-size: 42px;
     font-weight: 400;
     font-style: normal; 
     font-family: "WindSong", cursive;
+}
+.custom-heading2 {
+  font-size: 42px;
+  font-weight: 500;
+  font-style: normal; 
+  font-family: "WindSong", cursive;
+}
+.custom-heading3 {
+  font-size: 42px;
+  font-weight: 400;
+  font-style: normal; 
+  font-family: "League Script", cursive;
+}
+.custom-heading4 {
+  font-size: 42px;
+  font-weight: 400;
+  font-style: normal; 
+  font-family: "Birthstone", cursive;
+}
+.custom-heading5 {
+  font-size: 42px;
+  font-weight: 400;
+  font-style: normal; 
+  font-family: "Waterfall", cursive;
+}
+.custom-heading6 {
+  font-size: 42px;
+  font-weight: 400;
+  font-style: normal; 
+  font-family: "Alex Brush", cursive;
 }
 
 

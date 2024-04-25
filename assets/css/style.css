@@ -577,7 +577,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: #45ed11;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -701,7 +701,7 @@ section {
   margin: 0 auto 25px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: #f40cec;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -835,10 +835,10 @@ section {
   font-weight: 200;
 }
 
-.portfolio .portfolio-links h6 { /*added h5 style for the enlarge arrows----------------------------------------------------------------------------------------------------*/
-  font-size: 24px;
-  color: #07a01b;
-  font-weight: 400;
+.portfolio .portfolio-links .portfolio-wrap h6 { /*added h5 style for the enlarge arrows----------------------------------------------------------------------------------------------------*/
+  font-size: 15px;
+  color: #000000;
+  font-weight: 500;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {

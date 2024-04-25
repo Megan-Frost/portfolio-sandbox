@@ -1204,10 +1204,10 @@ section {
 
 .contact .info h4 {
   padding: 0 0 0 60px;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #45505b;
+  color: #000000;
 }
 
 .contact .info p {
@@ -1218,11 +1218,13 @@ section {
 }
 
 .contact .info .email,
+.contact .info .linkedin,
 .contact .info .phone {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 .contact .info .email:hover i,
+.contact .info .linkedin:hover,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #0563bb;

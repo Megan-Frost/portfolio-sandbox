@@ -724,6 +724,7 @@ section {
     text-align: center;
     /* margin: 0;      Remove margin */
     padding: -20px;     /* Remove padding */
+    color: #fb00ea;
 }
 .custom-heading2 {
   font-size: 52px;

@@ -555,7 +555,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #000000;
 }
 
 .resume .resume-item {
@@ -569,10 +569,10 @@ section {
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: none;
   font-family: "Poppins", sans-serif;
-  color: #a0b3f1;
+  color: #d22c31;
   margin-bottom: 10px;
 }
 
@@ -606,7 +606,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #a37bff;
+  border: 2px solid #d22c31;
 }
 
 
@@ -618,13 +618,13 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #000000;
 }
 
 .experience .experience-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #b70308;
+  border-left: 2px solid #d22c31;
   position: relative;
 }
 
@@ -634,7 +634,7 @@ section {
   font-weight: 600;
   text-transform: none;
   font-family: "Poppins", sans-serif;
-  color: #b70308;
+  color: #d22c31;
   margin-bottom: 10px;
 }
 
@@ -668,7 +668,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #b70308;
+  border: 2px solid #d22c31;
 }
 
 

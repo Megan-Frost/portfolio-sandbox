@@ -623,7 +623,7 @@ section {
 .experience .experience-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #b70308;
   position: relative;
 }
 
@@ -633,13 +633,13 @@ section {
   font-weight: 600;
   text-transform: none;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #b70308;
   margin-bottom: 10px;
 }
 
 .experience .experience-item h5 {
   font-size: 16px;
-  background: #45ed11;
+  background: #ffffff;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -667,7 +667,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #0563bb;
+  border: 2px solid #b70308;
 }
 
 
@@ -724,7 +724,7 @@ section {
     text-align: center;
     margin-top: -50px;
     margin-bottom: 10px;
-    color: #640d8d;
+    color: #000000;
 }
 .custom-heading2 {
     font-size: 52px;
@@ -734,7 +734,7 @@ section {
     text-align: center;
     margin-top: 0px;
     margin-bottom: 10px;
-    color: #08a500;
+    color: #000000;
 }
 .custom-heading7 {
   font-size: 52px;

@@ -398,12 +398,12 @@ section {
 .section-title h2 {
   font-size: 32px;
   /* font-weight: bold; */
-  font-weight: 100; /*edited*/ 
+  font-weight: 700; /*edited*/ 
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #000000;
 }
 
 .section-title h2::before {
@@ -630,8 +630,8 @@ section {
 
 .experience .experience-item h4 {
   line-height: 18px;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 700;
   text-transform: none;
   font-family: "Poppins", sans-serif;
   color: #d22c31;
@@ -719,7 +719,7 @@ section {
 
 .custom-heading1 {
     font-size: 52px;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal; 
     font-family: "WindSong", cursive;
     text-align: center;
@@ -729,7 +729,7 @@ section {
 }
 .custom-heading2 {
     font-size: 52px;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal; 
     font-family: "WindSong", cursive;
     text-align: center;
@@ -916,7 +916,7 @@ section {
 }
 
 .portfolio .portfolio-links .portfolio-wrap h6 { /*added h5 style for the enlarge arrows----------------------------------------------------------------------------------------------------*/
-  font-size: 16px;
+  font-size: 12px;
   color: #000000;
   font-weight: 500;
   text-align: center;

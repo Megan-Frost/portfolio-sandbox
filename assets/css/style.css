@@ -723,7 +723,7 @@ section {
     font-family: "WindSong", cursive;
     text-align: center;
     /* margin: 0;      Remove margin */
-    padding: -20;     /* Remove padding */
+    padding: -20px;     /* Remove padding */
 }
 .custom-heading2 {
   font-size: 52px;
@@ -925,7 +925,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #45505b;
-  <!--margin: 0 2px;-->
+  /* margin: 0 2px; */
   margin: 0 20px;
   font-size: 28px;
   display: inline-block;

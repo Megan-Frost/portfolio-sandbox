@@ -835,6 +835,12 @@ section {
   font-weight: 200;
 }
 
+.portfolio .portfolio-wrap h6 { /*added h5 style for the enlarge arrows----------------------------------------------------------------------------------------------------*/
+  font-size: 14px;
+  color: #000000;
+  font-weight: 200;
+}
+
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #45505b;
   font-size: 14px;

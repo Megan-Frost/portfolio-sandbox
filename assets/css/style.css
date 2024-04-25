@@ -612,6 +612,15 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 
+.centered { /*--------------------------------------------------------------------------------!!!!!!!!!!!-----------------------------------*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* You may need to set a height to vertically center-align */
+}
+
+
+
 
 .windsong-regular {
   font-family: "WindSong", cursive;
@@ -839,6 +848,7 @@ section {
   font-size: 16px;
   color: #000000;
   font-weight: 500;
+  text-align: center;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {

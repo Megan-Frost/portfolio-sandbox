@@ -835,7 +835,7 @@ section {
   font-weight: 200;
 }
 
-.portfolio .portfolio-links .portfolio-wrap h6 { /*added h5 style for the enlarge arrows----------------------------------------------------------------------------------------------------*/
+.portfolio .portfolio-links h6 { /*added h5 style for the enlarge arrows----------------------------------------------------------------------------------------------------*/
   font-size: 24px;
   color: #07a01b;
   font-weight: 400;
